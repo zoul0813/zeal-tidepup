@@ -1,0 +1,495 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="112" height="24" tilewidth="16" tileheight="16" infinite="0" nextlayerid="4" nextobjectid="71">
+  <properties>
+    <property name="index" value="1" type="int" />
+    <property name="name" value="KELP FOREST" />
+  </properties>
+  <tileset firstgid="1" source="../tileset.tsx" />
+  <layer id="1" name="Tiles" width="112" height="24">
+    <data encoding="csv">
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,21,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,7,8,8,8,8,9,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,10,10,10,10,10,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,7,8,8,8,8,8,8,8,8,8,8,8,8,
+8,8,8,8,8,8,8,8,9,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,10,10,10,10,10,8,11,11,11,11,11,11,11,11,9,1,1,1,1,1,1,1,1,1,1,1,1,10,10,10,10,10,10,10,10,10,10,10,10,10,
+10,10,10,10,10,10,10,10,10,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,7,8,8,8,8,8,8,9,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,1,1,1,1,1,1,1,1,1,1,1,1,10,10,10,10,10,10,10,10,10,10,10,10,10,
+10,10,10,10,10,10,10,10,10,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,10,10,10,10,10,10,10,10,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,2,2,2,18,2,2,2,18,2,2,2,2,10,10,10,10,10,10,10,10,10,10,10,10,10,
+10,10,10,10,10,10,10,10,10,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,10,10,10,10,10,10,10,10,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,2,2,2,2,2,2,2,2,2,2,2,2,10,10,10,10,10,10,10,10,10,10,10,10,10,
+10,10,10,10,10,10,10,10,10,2,2,2,2,2,2,2,2,2,2,2,2,15,2,2,2,15,2,2,2,15,2,2,2,15,2,2,2,2,2,2,2,10,10,10,10,10,10,10,10,2,2,2,2,2,2,2,2,2,2,2,15,2,2,3,4,5,2,2,2,2,2,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,2,2,2,2,2,2,2,2,2,2,2,2,10,10,10,10,10,10,10,10,10,10,10,10,10,
+10,10,10,10,10,10,10,10,10,2,2,2,2,2,15,2,2,2,15,2,2,16,2,2,2,16,2,2,2,16,2,2,2,16,2,2,2,2,2,2,2,10,10,10,10,10,10,10,10,2,2,2,2,2,2,2,2,2,2,2,16,2,2,6,6,6,2,2,2,2,2,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,2,2,2,2,2,2,2,2,2,2,15,2,10,10,10,10,10,10,10,10,10,10,10,10,10,
+10,10,10,10,10,10,10,10,10,2,2,15,2,2,16,2,2,2,16,2,2,16,2,2,2,16,2,2,2,16,2,2,2,16,2,2,2,2,2,15,2,10,10,10,10,10,10,10,10,2,2,2,15,2,2,3,4,5,2,2,16,2,2,6,6,6,2,2,2,2,2,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,2,2,2,2,2,2,2,2,2,2,16,2,10,10,10,10,10,10,10,10,10,10,10,10,10,
+10,10,10,10,10,10,10,10,10,2,2,16,2,2,16,2,2,2,16,2,2,16,2,2,2,16,2,2,2,16,2,2,2,16,2,2,15,2,2,16,2,10,10,10,10,10,10,10,10,2,2,2,16,2,2,6,6,6,2,2,16,2,2,6,6,6,2,2,15,2,2,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,2,15,2,2,2,2,2,2,2,2,16,2,10,10,10,10,10,10,10,10,10,10,10,10,10,
+10,10,10,10,10,10,10,10,10,2,2,16,2,2,16,2,2,2,16,2,2,16,2,2,2,16,2,2,2,16,2,2,2,16,2,2,16,2,2,16,2,10,10,10,10,10,10,10,10,2,2,2,16,2,2,6,6,6,2,2,16,2,2,6,6,6,2,2,16,2,2,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,2,16,2,2,2,2,2,2,2,2,16,2,10,10,10,10,10,10,10,10,10,10,10,10,10,
+10,10,10,10,10,10,10,10,10,2,2,16,2,2,16,2,2,2,16,2,2,16,2,2,2,16,2,2,2,16,2,2,2,16,2,2,16,2,2,16,2,10,10,10,10,10,10,10,10,2,2,2,16,14,2,6,6,6,2,2,16,14,2,6,6,6,2,14,16,2,2,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,2,16,2,2,2,2,2,2,2,2,16,2,10,10,10,10,10,10,10,10,10,10,10,10,10,
+10,10,10,10,10,10,10,10,10,2,2,16,2,2,16,2,2,2,16,2,2,16,2,2,2,16,2,2,2,16,2,2,2,16,2,2,16,2,2,16,2,10,10,10,10,10,10,10,10,12,12,12,12,12,12,6,6,6,12,12,12,12,12,6,6,6,12,12,12,12,12,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,12,12,12,12,12,12,12,12,12,12,12,12,10,10,10,10,10,10,10,10,10,10,10,10,10,
+10,10,10,10,10,10,10,10,10,12,12,16,12,12,16,14,12,12,16,12,12,16,17,12,12,16,14,12,12,16,12,12,12,16,14,12,16,12,12,16,12,10,10,10,10,10,10,10,10,13,13,13,13,13,13,6,6,6,13,13,13,13,13,6,6,6,13,13,13,13,13,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,13,13,13,13,13,13,13,13,13,13,13,13,10,10,10,10,10,10,10,10,10,10,10,10,10,
+10,10,10,10,10,10,10,10,10,13,13,12,13,13,12,12,13,13,12,13,13,12,12,13,13,12,12,13,13,12,13,13,13,12,12,13,12,13,13,12,13,10,10,10,10,10,10,10,10,13,13,13,13,13,13,6,6,6,13,13,13,13,13,6,6,6,13,13,13,13,13,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,13,13,13,13,13,13,13,13,13,13,13,13,10,10,10,10,10,10,10,10,10,10,10,10,10,
+10,10,10,10,10,10,10,10,10,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,10,10,10,10,10,10,10,10,13,13,13,13,13,13,6,6,6,13,13,13,13,13,6,6,6,13,13,13,13,13,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,13,13,13,13,13,13,13,13,13,13,13,13,10,10,10,10,10,10,10,10,10,10,10,10,10
+</data>
+  </layer>
+  <objectgroup id="2" name="Spawns">
+    <object id="1" name="Player" class="Player" x="32" y="144">
+      <point />
+    </object>
+    <object id="2" name="Fish" class="Fish" x="96" y="144">
+      <point />
+      <properties>
+        <property name="arg" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="3" name="Fish" class="Fish" x="192" y="240">
+      <point />
+      <properties>
+        <property name="arg" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="4" name="Fish" class="Fish" x="256" y="272">
+      <point />
+      <properties>
+        <property name="arg" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="5" name="Jellyfish" class="Jellyfish" x="272" y="224">
+      <point />
+      <properties>
+        <property name="arg" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="6" name="Fish" class="Fish" x="320" y="208">
+      <point />
+      <properties>
+        <property name="arg" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="7" name="Fish" class="Fish" x="368" y="304">
+      <point />
+      <properties>
+        <property name="arg" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="8" name="Fish" class="Fish" x="432" y="240">
+      <point />
+      <properties>
+        <property name="arg" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="9" name="Jellyfish" class="Jellyfish" x="480" y="256">
+      <point />
+      <properties>
+        <property name="arg" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="10" name="Fish" class="Fish" x="496" y="288">
+      <point />
+      <properties>
+        <property name="arg" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="11" name="Fish" class="Fish" x="560" y="224">
+      <point />
+      <properties>
+        <property name="arg" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="12" name="Jellyfish" class="Jellyfish" x="608" y="208">
+      <point />
+      <properties>
+        <property name="arg" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="13" name="Buoy" class="Buoy" x="704" y="160">
+      <point />
+      <properties>
+        <property name="arg" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="14" name="Crab" class="Crab" x="752" y="160">
+      <point />
+      <properties>
+        <property name="arg" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="15" name="Fish" class="Fish" x="816" y="272">
+      <point />
+      <properties>
+        <property name="arg" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="16" name="Fish" class="Fish" x="896" y="208">
+      <point />
+      <properties>
+        <property name="arg" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="17" name="Jellyfish" class="Jellyfish" x="928" y="256">
+      <point />
+      <properties>
+        <property name="arg" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="18" name="Fish" class="Fish" x="960" y="192">
+      <point />
+      <properties>
+        <property name="arg" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="19" name="Fish" class="Fish" x="1024" y="176">
+      <point />
+      <properties>
+        <property name="arg" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="20" name="Jellyfish" class="Jellyfish" x="1056" y="272">
+      <point />
+      <properties>
+        <property name="arg" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="21" name="Fish" class="Fish" x="1168" y="112">
+      <point />
+      <properties>
+        <property name="arg" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="22" name="Gull" class="Gull" x="1280" y="64">
+      <point />
+      <properties>
+        <property name="arg" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="23" name="Crab" class="Crab" x="1312" y="144">
+      <point />
+      <properties>
+        <property name="arg" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="24" name="Buoy" class="Buoy" x="1360" y="144">
+      <point />
+      <properties>
+        <property name="arg" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="25" name="Fish" class="Fish" x="1424" y="256">
+      <point />
+      <properties>
+        <property name="arg" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="26" name="Fish" class="Fish" x="1472" y="288">
+      <point />
+      <properties>
+        <property name="arg" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="27" name="Jellyfish" class="Jellyfish" x="1488" y="224">
+      <point />
+      <properties>
+        <property name="arg" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="28" name="Fish" class="Fish" x="1536" y="240">
+      <point />
+      <properties>
+        <property name="arg" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="29" name="Gull" class="Gull" x="1616" y="48">
+      <point />
+      <properties>
+        <property name="arg" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="30" name="Crab" class="Crab" x="1632" y="128">
+      <point />
+      <properties>
+        <property name="arg" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="31" name="Fish" class="Fish" x="1664" y="128">
+      <point />
+      <properties>
+        <property name="arg" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="32" name="Mother" class="Mother" x="1728" y="128">
+      <point />
+      <properties>
+        <property name="arg" value="0" type="int" />
+      </properties>
+    </object>
+  </objectgroup>
+  <objectgroup id="3" name="Routes" visible="0">
+    <object id="33" name="Waypoint" class="Waypoint" x="96" y="144">
+      <point />
+      <properties>
+        <property name="order" value="0" type="int" />
+        <property name="flags" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="34" name="Waypoint" class="Waypoint" x="160" y="208">
+      <point />
+      <properties>
+        <property name="order" value="1" type="int" />
+        <property name="flags" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="35" name="Waypoint" class="Waypoint" x="192" y="240">
+      <point />
+      <properties>
+        <property name="order" value="2" type="int" />
+        <property name="flags" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="36" name="Waypoint" class="Waypoint" x="256" y="272">
+      <point />
+      <properties>
+        <property name="order" value="3" type="int" />
+        <property name="flags" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="37" name="Waypoint" class="Waypoint" x="304" y="288">
+      <point />
+      <properties>
+        <property name="order" value="4" type="int" />
+        <property name="flags" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="38" name="Waypoint" class="Waypoint" x="320" y="208">
+      <point />
+      <properties>
+        <property name="order" value="5" type="int" />
+        <property name="flags" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="39" name="Waypoint" class="Waypoint" x="368" y="304">
+      <point />
+      <properties>
+        <property name="order" value="6" type="int" />
+        <property name="flags" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="40" name="Waypoint" class="Waypoint" x="432" y="240">
+      <point />
+      <properties>
+        <property name="order" value="7" type="int" />
+        <property name="flags" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="41" name="Waypoint" class="Waypoint" x="448" y="304">
+      <point />
+      <properties>
+        <property name="order" value="8" type="int" />
+        <property name="flags" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="42" name="Waypoint" class="Waypoint" x="496" y="304">
+      <point />
+      <properties>
+        <property name="order" value="9" type="int" />
+        <property name="flags" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="43" name="Waypoint" class="Waypoint" x="496" y="288">
+      <point />
+      <properties>
+        <property name="order" value="10" type="int" />
+        <property name="flags" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="44" name="Waypoint" class="Waypoint" x="560" y="224">
+      <point />
+      <properties>
+        <property name="order" value="11" type="int" />
+        <property name="flags" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="45" name="Waypoint" class="Waypoint" x="576" y="272">
+      <point />
+      <properties>
+        <property name="order" value="12" type="int" />
+        <property name="flags" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="46" name="Waypoint" class="Waypoint" x="640" y="256">
+      <point />
+      <properties>
+        <property name="order" value="13" type="int" />
+        <property name="flags" value="1" type="int" />
+      </properties>
+    </object>
+    <object id="47" name="Waypoint" class="Waypoint" x="672" y="160">
+      <point />
+      <properties>
+        <property name="order" value="14" type="int" />
+        <property name="flags" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="48" name="Waypoint" class="Waypoint" x="704" y="160">
+      <point />
+      <properties>
+        <property name="order" value="15" type="int" />
+        <property name="flags" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="49" name="Waypoint" class="Waypoint" x="768" y="160">
+      <point />
+      <properties>
+        <property name="order" value="16" type="int" />
+        <property name="flags" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="50" name="Waypoint" class="Waypoint" x="800" y="224">
+      <point />
+      <properties>
+        <property name="order" value="17" type="int" />
+        <property name="flags" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="51" name="Waypoint" class="Waypoint" x="816" y="272">
+      <point />
+      <properties>
+        <property name="order" value="18" type="int" />
+        <property name="flags" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="52" name="Waypoint" class="Waypoint" x="848" y="240">
+      <point />
+      <properties>
+        <property name="order" value="19" type="int" />
+        <property name="flags" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="53" name="Waypoint" class="Waypoint" x="896" y="208">
+      <point />
+      <properties>
+        <property name="order" value="20" type="int" />
+        <property name="flags" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="54" name="Waypoint" class="Waypoint" x="960" y="192">
+      <point />
+      <properties>
+        <property name="order" value="21" type="int" />
+        <property name="flags" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="55" name="Waypoint" class="Waypoint" x="1024" y="208">
+      <point />
+      <properties>
+        <property name="order" value="22" type="int" />
+        <property name="flags" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="56" name="Waypoint" class="Waypoint" x="1088" y="208">
+      <point />
+      <properties>
+        <property name="order" value="23" type="int" />
+        <property name="flags" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="57" name="Waypoint" class="Waypoint" x="1120" y="256">
+      <point />
+      <properties>
+        <property name="order" value="24" type="int" />
+        <property name="flags" value="1" type="int" />
+      </properties>
+    </object>
+    <object id="58" name="Waypoint" class="Waypoint" x="1168" y="112">
+      <point />
+      <properties>
+        <property name="order" value="25" type="int" />
+        <property name="flags" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="59" name="Waypoint" class="Waypoint" x="1200" y="112">
+      <point />
+      <properties>
+        <property name="order" value="26" type="int" />
+        <property name="flags" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="60" name="Waypoint" class="Waypoint" x="1248" y="144">
+      <point />
+      <properties>
+        <property name="order" value="27" type="int" />
+        <property name="flags" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="61" name="Waypoint" class="Waypoint" x="1376" y="144">
+      <point />
+      <properties>
+        <property name="order" value="28" type="int" />
+        <property name="flags" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="62" name="Waypoint" class="Waypoint" x="1408" y="224">
+      <point />
+      <properties>
+        <property name="order" value="29" type="int" />
+        <property name="flags" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="63" name="Waypoint" class="Waypoint" x="1424" y="256">
+      <point />
+      <properties>
+        <property name="order" value="30" type="int" />
+        <property name="flags" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="64" name="Waypoint" class="Waypoint" x="1472" y="288">
+      <point />
+      <properties>
+        <property name="order" value="31" type="int" />
+        <property name="flags" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="65" name="Waypoint" class="Waypoint" x="1520" y="288">
+      <point />
+      <properties>
+        <property name="order" value="32" type="int" />
+        <property name="flags" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="66" name="Waypoint" class="Waypoint" x="1536" y="240">
+      <point />
+      <properties>
+        <property name="order" value="33" type="int" />
+        <property name="flags" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="67" name="Waypoint" class="Waypoint" x="1568" y="256">
+      <point />
+      <properties>
+        <property name="order" value="34" type="int" />
+        <property name="flags" value="1" type="int" />
+      </properties>
+    </object>
+    <object id="68" name="Waypoint" class="Waypoint" x="1600" y="128">
+      <point />
+      <properties>
+        <property name="order" value="35" type="int" />
+        <property name="flags" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="69" name="Waypoint" class="Waypoint" x="1664" y="128">
+      <point />
+      <properties>
+        <property name="order" value="36" type="int" />
+        <property name="flags" value="0" type="int" />
+      </properties>
+    </object>
+    <object id="70" name="Waypoint" class="Waypoint" x="1728" y="128">
+      <point />
+      <properties>
+        <property name="order" value="37" type="int" />
+        <property name="flags" value="0" type="int" />
+      </properties>
+    </object>
+  </objectgroup>
+</map>
